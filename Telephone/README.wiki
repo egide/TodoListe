@@ -24,9 +24,9 @@ Classé par ordre d'importance d'utilisation.
 === Moi ===
 * lecture de pdf/epub;
 * web:
-	* liste d'appel pour mes classes,
-	* système de réservation de matériel,
-	* mon wiki perso des réponses préparées aux questions difficiles.
+  * liste d'appel pour mes classes,
+  * système de réservation de matériel,
+  * mon wiki perso des réponses préparées aux questions difficiles.
 
 
 = Ce que j'aimerais changer =
