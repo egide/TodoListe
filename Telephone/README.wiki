@@ -1,0 +1,33 @@
+[[=]] Téléphone =
+Nos deux téléphones sont en fin de vie (des htc désire de la première heure).
+Les batteries ne tiennes plus une journée, l'écran de celui de ma femme est
+fracassé, les deux écrans tactiles répondent de plus en plus mal et surtout je
+n'arrive plus les mètres à jour.
+
+Ce pose donc la question du changement.
+
+Que prendre? Regardons d'abord notre usage:
+
+== Utilisation ==
+Classé par ordre d'importance d'utilisation.
+
+=== Les deux ===
+* partage de plusieurs calendriers (pour l'instant google, mais j'aimerais bien en changer);
+* partage de contacts;
+* téléphoner;
+* photos (surtout des documents à retenir);
+* liste de tâches partagée.
+
+=== Elle ===
+* quelques jeux basiques.
+
+=== Moi ===
+* lecture de pdf/epub;
+* web:
+	* liste d'appel pour mes classes,
+	* système de réservation de matériel,
+	* mon wiki perso des réponses préparées aux questions difficiles.
+
+
+= Ce que j'aimerais changer =
+
