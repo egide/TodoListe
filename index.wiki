@@ -1,5 +1,5 @@
 = Accueil =
-[[*]] [[Pour_la_voiture]]
+* [[Pour_la_voiture]]
 * [[Couteaux]]
 * [[Programation]]
 * [[Telephone/README]]
