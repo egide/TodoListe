@@ -1,0 +1,7 @@
+= LaTeX =
+Des choses à faire ou à chercher au sujet de LaTeX
+
+
+== Makefile / Latexmk ==
+* http://geekographie.maieul.net/Introduction-a-Latexmk-pour
+
