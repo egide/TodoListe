@@ -1,0 +1,6 @@
+== Pour le partage privé de données sur Net ==
+L'idée, avoir un serveur de partage de discutions et de documents, accessible
+sur authentification et qui ne soit pas repérable sur le net.
+
+Le but est principalement pour du leax... Les "clients" seraient en tails, et le
+serveur sur un noeud tor.
