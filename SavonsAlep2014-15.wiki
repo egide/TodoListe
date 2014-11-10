@@ -1,4 +1,7 @@
 = Action des savons d'Alep 2014-2015 =
 
 
-* [ ] Liste des choses à faire
+* [ ] Création d'une page de garde sur le pad fritic
+* [ ] création d'une page callendrier
+* [ ] mise en place d'un dépôt github
+
