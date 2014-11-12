@@ -39,6 +39,12 @@ téléphoner pour téléphoner et deux tablettes pour le reste...
 
 À réfléchir.
 
+
+= Synchronisation =
+Regarder du coté de horde. Il devrait être possible de synchroniser les contacts
+et le calendrier.
+
+
 = Liens =
 
 == Smartphones simpa ==
