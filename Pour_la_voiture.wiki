@@ -1,13 +1,5 @@
 = Des outils pour la voiture =
-== Sécurité ==
-=== Éclaireage ===
-* http://www.conrad.ch/ce/fr/product/791445/Phare-de-signalisation-durgence-1224230-V-rechargeable-Profi-Power/?ref=detview1&rt=detview1&rb=1
-	Semble être le top!
-	Lampe ronde avec des Led tout le tour pour signaler l'emplacement.
-* http://www.conrad.ch/ce/fr/product/840261/Avertisseur-durgence-Kunzer?ref=searchDetail
-	Même genre que la précédente, mais avec des piles au lieu de la batterie
 
-=== Coupe ceinture ===
-* http://www.conrad.ch/ce/fr/product/621373/Marteau-brise-vitre-avec-coupe-ceinture-Dunlop/?ref=detview1&rt=detview1&rb=1
-* www.conrad.ch/ce/fr/product/753199/HP-Autozubehoer-rouge
-* http://www.conrad.ch/ce/fr/product/753218/Marteau-durgence-avec-coupe-ceinture-HP-Autozubehoer-Lifehammer-Evolution?ref=searchDetail
+Tout est commandé
+
+
