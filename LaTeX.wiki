@@ -6,6 +6,10 @@ Des choses à faire ou à chercher au sujet de LaTeX
 Préparer un modèle de document permettant de préparer une assemblée en
 rassemblant les différant rapports (intégration de document pdf déjà existants).
 
+\usepackage[final]{pdfpages}
+
+le S de [pageS= ] est super important, sinon il ne met qu'une page !
+\includepdf[pages=1-20]{fichier.pdf}
 
 
 == Makefile / Latexmk ==
