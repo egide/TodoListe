@@ -1,6 +1,12 @@
 = LaTeX =
 Des choses à faire ou à chercher au sujet de LaTeX
 
+== Modèle ==
+=== Document de préparation à une assemblée ===
+Préparer un modèle de document permettant de préparer une assemblée en
+rassemblant les différant rapports (intégration de document pdf déjà existants).
+
+
 
 == Makefile / Latexmk ==
 * http://geekographie.maieul.net/Introduction-a-Latexmk-pour
