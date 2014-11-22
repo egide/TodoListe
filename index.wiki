@@ -1,7 +1,7 @@
 = Accueil =
 * [[Pour_la_voiture]]
 * [[Couteaux]]
-[[*]] [[Programation]]
+* [[Programation]]
 * [[Telephone/README]]
 * [[LaTeX]]
 * [[Expositions]]
@@ -9,3 +9,5 @@
 * [[SavonsAlep2014-15]]
 * [[FengOffice]]
 * [[GroupeDeTravail]]
+* [[livrets]]
+

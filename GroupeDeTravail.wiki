@@ -1,5 +1,4 @@
 = Outils pour le travail en groupe =
-
 == Odoo ==
 Logiciel présenté à fêtons Linux 2015 [[http://www.fetons-linux.ch/evenements/odoo-pour-les-associations]] 
 
