@@ -1,0 +1,8 @@
+= Arc Linux =
+== Programmes installés sur mon portables ==
+=== TermRecord ===
+Installé le 2014.11.25
+Cf.  http://www.toolinux.com/Enregistrer-le-terminal-Linux-en?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+toolinux+%28Toolinux+-+L%27actu+Linux+-+L%27actu+libre%29
+TermRecord est un outil très pratique écrit en Python. Celui-ci va en effet vous
+permettre d’enregistrer une session terminal Linux pour en faire directement une
+vidéo qui pourra être visionnée plus tard.
