@@ -8,3 +8,7 @@ serveur sur un noeud tor.
 == geeklog ==
 Cette plate-forme semble vraiment pas mal. À tester de toute urgence.
 
+== ovidentia ==
+La description est vraiment très intéressante. Mais, cela plante dès
+l'installation...
+
