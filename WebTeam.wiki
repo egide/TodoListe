@@ -4,3 +4,7 @@ sur authentification et qui ne soit pas repérable sur le net.
 
 Le but est principalement pour du leax... Les "clients" seraient en tails, et le
 serveur sur un noeud tor.
+
+== geeklog ==
+Cette plate-forme semble vraiment pas mal. À tester de toute urgence.
+
