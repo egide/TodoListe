@@ -14,3 +14,7 @@
 * [[ArchLinux]]
 * [[vim]]
 
+
+= TODO =
+- Chercher dans "Lexique des règles typographiques en usage à l'imprimerie
+nationale" les différentes partie d'un bouquin.

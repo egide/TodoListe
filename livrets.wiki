@@ -1,9 +1,9 @@
 = Livre ... =
 cf. http://linuxfr.org/nodes/102652/comments/1546871 
 
-* [[http://fr.wikipedia.org/wiki/Livre_blanc|Livre_blanc]] : « recueil d'informations objectives et factuelles destiné à un public déterminé pour l'amener à prendre une décision sur un sujet particulier »
 * [[http://fr.wikipedia.org/wiki/Livre_bleu|Livre_bleu]] : « rapport annuel ou toute autre compilation de statistiques et données chiffrées »
 * [[http://fr.wikipedia.org/wiki/Livre_vert_%28rapport%29|Livre vert]] : « rapport officiel renfermant un ensemble de propositions destinées à être discutées, en vue de l’élaboration d’une politique »
+* [[http://fr.wikipedia.org/wiki/Livre_blanc|Livre_blanc]] : « recueil d'informations objectives et factuelles destiné à un public déterminé pour l'amener à prendre une décision sur un sujet particulier »
 * [[http://fr.wikipedia.org/wiki/Livre_noir|Livre noir]] : « livre dont le but est de révéler ou de dénoncer un état de fait, des mensonges, des exactions ou des crimes, réels ou supposés, en se basant sur des documents, généralement secrets ou peu connus, et des témoignages »
 * [[http://en.wikipedia.org/wiki/Rainbow_Books|Rainbow books]] : rouge (CD audio), vert (CD interactif), jaune (CDROM), orange (CD-R(W)), blanc (vidéo CD), bleu, beige, écarlate, pourpre, etc.
 
