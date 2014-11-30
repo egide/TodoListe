@@ -12,4 +12,5 @@
 * [[livrets]]
 * [[SSP]]
 * [[ArchLinux]]
+* [[vim]]
 
