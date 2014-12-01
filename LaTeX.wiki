@@ -1,7 +1,7 @@
-= LaTeX =
+[[=]] LaTeX =
 Des choses à faire ou à chercher au sujet de LaTeX
 
-== Modèle ==
+[[==]] Modèle ==
 === Document de préparation à une assemblée ===
 Préparer un modèle de document permettant de préparer une assemblée en
 rassemblant les différant rapports (intégration de document pdf déjà existants).
@@ -11,7 +11,62 @@ rassemblant les différant rapports (intégration de document pdf déjà existan
 le S de [pageS= ] est super important, sinon il ne met qu'une page !
 \includepdf[pages=1-20]{fichier.pdf}
 
+=== Titraille ===
+\part[Kurzform ]{Überschrift }
+\chapter[Kurzform ]{Überschrift }
+\section[Kurzform ]{Überschrift }
+\subsection[Kurzform ]{Überschrift }
+\subsubsection[Kurzform ]{Überschrift }
+\paragraph[Kurzform ]{Überschrift }
+\subparagraph[Kurzform ]{Überschrift }
+
+
+=== Parties d'un document ===
+* Première page de couverture
+	* _Titre de l'ouvrage_
+		* _Sous-titre_
+		* _Numéro de l'édition_
+	* _Nom de l'auteur_
+		* _Nom du traducteur_
+	* _Nom de la maison d'édition_
+		* _Nom de la collection_
+* Partie initiale « éditeur »
+	* Elle est introduite par la commande \frontmatter
+* Faux titre
+* Titre (grand titre)
+* Dédicace
+* Table des matières
+* Tables des figures
+* Liste des tableaux
+* Partie d'introduction
+	* Avant-propos
+	* Préface
+	* Introduction
+		* À qui s'adresse ce livre
+		* Pré-requis
+		* Sommaire, structure de l'ouvrage
+	* Remerciements
+	* Conventions
+* Partie principale (Corps du livre)
+	* Les chapitres
+	* Les annexes
+* Partie finale
+	* Glossaire
+	* Lexique
+	* Postface
+	* Notes
+	* Bibliographie
+	* Index
+	* Table des figures
+	* Liste des tableaux
+* Partie finale
+	* Colophon
+	* Achevé d'imprimer
+	* Quatrième de couverture
+
 
 == Makefile / Latexmk ==
 * http://geekographie.maieul.net/Introduction-a-Latexmk-pour
+
+
 
