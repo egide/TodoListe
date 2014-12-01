@@ -61,6 +61,8 @@ Elle est introduite par la commande \appendix
 
 
 ==== Partie finale ====
+Elle est introduite par la commande \backmatter
+
 * Glossaire
 * Lexique
 * Postface
