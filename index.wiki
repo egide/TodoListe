@@ -39,6 +39,7 @@
 = COB =
 == Cours ==
 - [ ] Leçons d'introduction.
+- [ ] mettre en place les pages du cours informatique
 
 == SET ==
 
