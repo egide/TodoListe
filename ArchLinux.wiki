@@ -1,10 +1,18 @@
 = Arc Linux =
 == Programmes installés sur mon portables ==
 === TermRecord ===
-Installé le 2014.11.25
+Installé le e014.11.25
 Cf. http://www.toolinux.com/Enregistrer-le-terminal-Linux-en?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+toolinux+%28Toolinux+-+L%27actu+Linux+-+L%27actu+libre%29
 CF. http://www.it-connect.fr/enregistrer-le-terminal-linux-en-video-avec-termrecord/
 TermRecord est un outil très pratique écrit en Python. Celui-ci va en effet vous
 permettre d’enregistrer une session terminal Linux pour en faire directement une
 vidéo qui pourra être visionnée plus tard.
+
+=== ttyrec / ttyplay ===
+Installé depuis je ne sais combien de temps...
+Cf.  http://www.pihomeserver.fr/2014/09/26/raspberry-pi-home-server-quelques-commandes-unix-ligne-commande/
+Permet l'enregistrement de vos sessions en mode console. Le timing (en
+millisecondes) est aussi enregistré pour restituer via la commande ttyplay, vos
+enregistrements. Pour terminer votre enregistrement, vous devez quitter le
+shell qui a été créé.
 
