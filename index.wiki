@@ -21,6 +21,9 @@ nationale" les différentes partie d'un bouquin.
 
 - Préparer un modèle de lettre LaTeX
 
+- Avancer le livre blanc...
+
+
 = COB =
 == SET ==
 
