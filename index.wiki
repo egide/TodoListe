@@ -23,6 +23,8 @@ nationale" les différentes partie d'un bouquin.
 
 - Avancer le livre blanc...
 
+- Mettre à jour la config de txt2tags
+
 
 = COB =
 == SET ==
