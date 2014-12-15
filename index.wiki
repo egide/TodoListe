@@ -29,6 +29,17 @@ nationale" les différentes partie d'un bouquin.
 == poste ==
 
 - supprimer toutes les factures.
+- ajouter les factures à la banques
+	- électricité
+	- service des auto
+	- impôt
+	- assurance
+		- maladie de base
+		- maladie complémentaire
+		- ménage
+		- smart
+		- fiat
+
 
 = COB =
 == SET ==
