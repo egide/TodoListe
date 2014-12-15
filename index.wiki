@@ -16,6 +16,7 @@
 
 
 = TODO =
+== divers ==
 - Chercher dans "Lexique des règles typographiques en usage à l'imprimerie
 nationale" les différentes partie d'un bouquin.
 
@@ -25,6 +26,9 @@ nationale" les différentes partie d'un bouquin.
 
 - Mettre à jour la config de txt2tags
 
+== poste ==
+
+- supprimer toutes les factures.
 
 = COB =
 == SET ==
