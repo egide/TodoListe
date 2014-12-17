@@ -17,6 +17,7 @@
 
 = TODO =
 == divers ==
+- Payement kréativemédia
 - mail AMCOF Bellu
 - Lettre ASI
 - Chercher dans "Lexique des règles typographiques en usage à l'imprimerie nationale" les différentes partie d'un bouquin.
@@ -24,6 +25,8 @@
 - Avancer le livre blanc...
 - Mettre à jour la config de txt2tags
 
+=== Bourse ===
+- 
 == poste ==
 
 - supprimer toutes les factures.
