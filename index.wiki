@@ -18,8 +18,9 @@
 = TODO =
 == divers ==
 - Payement kréativemédia
-- mail AMCOF Bellu
 - Lettre ASI
+	- [X] scanné
+	- [ ] préparer une réponse
 - Chercher dans "Lexique des règles typographiques en usage à l'imprimerie nationale" les différentes partie d'un bouquin.
 - Préparer un modèle de lettre LaTeX
 - Avancer le livre blanc...
@@ -28,7 +29,6 @@
 === Bourse ===
 - 
 == poste ==
-
 - supprimer toutes les factures.
 - ajouter les factures à la banques
 	- électricité
