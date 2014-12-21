@@ -42,6 +42,9 @@
 		- [ ] smart
 		- [ ] fiat
 
+== Machine perso ==
+- [ ] Supprimer utilisateur:
+	- [ ] amule
 
 = COB =
 == SET ==
