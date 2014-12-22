@@ -47,6 +47,9 @@
 	- [ ] amule
 
 = COB =
+== Cours ==
+- [ ] Leçons d'introduction.
+
 == SET ==
 
 = SSP =
