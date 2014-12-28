@@ -79,6 +79,9 @@ Elle est introduite par la commande \backmatter
 * Quatrième de couverture
 
 
+== Affichage ==
+* [] courrier électronique
+
 == Makefile / Latexmk ==
 * http://geekographie.maieul.net/Introduction-a-Latexmk-pour
 
