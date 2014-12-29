@@ -33,6 +33,8 @@
 == Machine perso ==
 - [ ] Supprimer utilisateur:
 	- [ ] amule
+- [ ] enfin mettre le portable de stef à jour...
+- [ ] installer la station
 
 = COB =
 == Cours ==
