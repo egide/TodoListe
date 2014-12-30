@@ -1,4 +1,6 @@
 = Arc Linux =
+Mettre à jour la liste des programmes installés
+
 == Programmes installés sur mon portables ==
 === TermRecord ===
 Installé le e014.11.25
