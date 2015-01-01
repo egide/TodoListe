@@ -16,6 +16,7 @@
 
 
 = TODO =
+Gérer le problème de suivi sur github...
 == divers ==
 - Payement kréativemédia
 - Lettre ASI
