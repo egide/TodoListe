@@ -18,7 +18,8 @@
 = TODO =
 Gérer le problème de suivi sur github...
 == divers ==
-- Payement kréativemédia
+- Terminer classe LaTeX pour lettres
+- TODO Payement kréativemédia
 - Lettre ASI
 	- [X] scanné
 	- [ ] préparer une réponse
