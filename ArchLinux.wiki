@@ -1,6 +1,8 @@
 = Arc Linux =
 Mettre à jour la liste des programmes installés
 
+cgroup : option or name mismatch, new: 0x0", old: 0x4 "systemd"
+
 == Programmes installés sur mon portables ==
 === TermRecord ===
 Installé le e014.11.25
