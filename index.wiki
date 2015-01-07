@@ -16,7 +16,6 @@
 
 
 = TODO =
-Gérer le problème de suivi sur github...
 == divers ==
 - Terminer classe LaTeX pour lettres
 - TODO Payement kréativemédia
