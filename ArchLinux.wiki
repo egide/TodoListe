@@ -20,3 +20,7 @@ millisecondes) est aussi enregistré pour restituer via la commande ttyplay, vos
 enregistrements. Pour terminer votre enregistrement, vous devez quitter le
 shell qui a été créé.
 
+=== aur/jp2a ===
+Pour convertir des images jpg en ASCII.
+
+
