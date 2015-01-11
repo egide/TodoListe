@@ -51,8 +51,8 @@
 === Le cerveau qui se souvient ===
 * [ ] Le cerveau qui se souvient
 	* [ ] Demande l'ordre des trois cours
-		* [ ] recherche d'adresse
-		* [ ] Courriel de demande
+		* [X] recherche d'adresse
+		* [o] Courriel de demande
 	* [ ] Inscription
 		* [ ] Inscription
 		* [ ] vérification de l'inscription
