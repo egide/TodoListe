@@ -51,7 +51,11 @@
 === Le cerveau qui se souvient ===
 * [ ] Le cerveau qui se souvient
 	* [ ] Demande l'ordre des trois cours
+		* [ ] recherche d'adresse
+		* [ ] Courriel de demande
 	* [ ] Inscription
+		* [ ] Inscription
+		* [ ] vérification de l'inscription
 
 = SSP =
 - [ ] Demande de rédaction d'une réponse à l'association des profs.
