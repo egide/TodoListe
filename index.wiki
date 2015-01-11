@@ -47,6 +47,12 @@
 
 == SET ==
 
+== Formation ==
+=== Le cerveau qui se souvient ===
+* [ ] Le cerveau qui se souvient
+	* [ ] Demande l'ordre des trois cours
+	* [ ] Inscription
+
 = SSP =
 - [ ] Demande de rédaction d'une réponse à l'association des profs.
 - [ ] 
