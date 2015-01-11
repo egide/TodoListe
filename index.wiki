@@ -13,7 +13,7 @@
 * [[SSP]]
 * [[ArchLinux]]
 * [[vim]]
-
+* [[shop]]
 
 = TODO =
 == Auj ==
