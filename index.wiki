@@ -17,8 +17,6 @@
 
 = TODO =
 == Auj ==
-- [ ] Recherche ubuntu
-	- [ ] install de flashplayer
 == divers ==
 - Terminer classe LaTeX pour lettres
 - TODO Payement kréativemédia
