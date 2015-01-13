@@ -52,7 +52,7 @@
 * [ ] Le cerveau qui se souvient
 	* [ ] Demande l'ordre des trois cours
 		* [X] recherche d'adresse
-		* [o] Courriel de demande
+		* [X] Courriel de demande
 	* [ ] Inscription
 		* [ ] Inscription
 		* [ ] vérification de l'inscription
