@@ -19,6 +19,7 @@
 == Auj ==
 * [ ] SSAC
 	* [ ] Cabane
+* [ ] [[TraitéDeLaTolérance]]
 == divers ==
 - Terminer classe LaTeX pour lettres
 - TODO Payement kréativemédia
