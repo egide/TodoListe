@@ -2,3 +2,7 @@
 == Liste de plugin intéressants ==
 === VimFx ===
 Les raccourcis clavier de vim dans firefox.
+
+=== TiddlyFox ===
+Extension permettant l'utilisation de TiddlyWiki en local
+
