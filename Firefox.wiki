@@ -9,3 +9,8 @@ Extension permettant l'utilisation de TiddlyWiki en local
 === It's All Text! ===
 Permet d'utiliser son éditeur de texte préféré pour éditer les zones de textes.
 
+=== Humans ===
+Permet de lire les fichiers human
+http://humanstxt.org/FR
+
+
