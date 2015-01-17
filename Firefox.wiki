@@ -6,3 +6,6 @@ Les raccourcis clavier de vim dans firefox.
 === TiddlyFox ===
 Extension permettant l'utilisation de TiddlyWiki en local
 
+=== It's All Text! ===
+Permet d'utiliser son éditeur de texte préféré pour éditer les zones de textes.
+
