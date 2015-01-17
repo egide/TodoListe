@@ -13,4 +13,6 @@ Permet d'utiliser son éditeur de texte préféré pour éditer les zones de tex
 Permet de lire les fichiers human
 http://humanstxt.org/FR
 
+=== GrabMyBooks ===
+Produire des epub à partir de page web.
 
