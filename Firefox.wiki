@@ -16,3 +16,6 @@ http://humanstxt.org/FR
 === GrabMyBooks ===
 Produire des epub à partir de page web.
 
+=== ADB Helper ===
+Je ne sais pas d'où viens ce plugin!!!
+
