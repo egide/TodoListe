@@ -20,7 +20,7 @@
 = TODO =
 == Auj ==
 * [ ] SSAC
-	* [ ] Cabane
+	* [X] Cabane
 * [ ] [[TraitéDeLaTolérance]]
 == divers ==
 - Terminer classe LaTeX pour lettres
