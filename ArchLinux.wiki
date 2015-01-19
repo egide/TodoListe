@@ -1,4 +1,4 @@
-= Arc Linux =
+[[=]] Arc Linux =
 Mettre à jour la liste des programmes installés
 
 cgroup : option or name mismatch, new: 0x0", old: 0x4 "systemd"
@@ -26,4 +26,8 @@ shell qui a été créé.
 === aur/jp2a ===
 Pour convertir des images jpg en ASCII.
 
+
+== Programme pouvant être intéressants ==
+=== FreeDebks ===
+Logiciel français de compta en partie double.
 
