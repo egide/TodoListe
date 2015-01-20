@@ -21,6 +21,7 @@
 == Auj ==
 * [ ] SSAC
 	* [X] Cabane
+	* [ ] Demander la liste des accompagnateurs
 * [ ] [[TraitéDeLaTolérance]]
 == divers ==
 - Terminer classe LaTeX pour lettres
