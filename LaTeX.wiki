@@ -11,6 +11,9 @@ rassemblant les différant rapports (intégration de document pdf déjà existan
 le S de [pageS= ] est super important, sinon il ne met qu'une page !
 \includepdf[pages=1-20]{fichier.pdf}
 
+=== Texte ===
+Modèle pour l'impression de texte pour l'école.
+
 === Titraille ===
 \part[Kurzform ]{Überschrift }
 \chapter[Kurzform ]{Überschrift }
