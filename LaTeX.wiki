@@ -88,5 +88,8 @@ Elle est introduite par la commande \backmatter
 == Makefile / Latexmk ==
 * http://geekographie.maieul.net/Introduction-a-Latexmk-pour
 
-
+== TODO ==
+=== FixMe ===
+Étudier ce paquet qui semble très intéressant! La doc est déjà chargée dans mon
+dossier doc perso.
 
