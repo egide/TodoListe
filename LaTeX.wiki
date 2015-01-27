@@ -93,3 +93,6 @@ Elle est introduite par la commande \backmatter
 Étudier ce paquet qui semble très intéressant! La doc est déjà chargée dans mon
 dossier doc perso.
 
+=== blindtext ===
+Paquet vraiment très intéressant qui permet de faire du faux texte.
+
