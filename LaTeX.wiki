@@ -15,13 +15,13 @@ le S de [pageS= ] est super important, sinon il ne met qu'une page !
 Modèle pour l'impression de texte pour l'école.
 
 === Titraille ===
-\part[Kurzform ]{Überschrift }
-\chapter[Kurzform ]{Überschrift }
-\section[Kurzform ]{Überschrift }
-\subsection[Kurzform ]{Überschrift }
-\subsubsection[Kurzform ]{Überschrift }
-\paragraph[Kurzform ]{Überschrift }
-\subparagraph[Kurzform ]{Überschrift }
+\part[Kurzform]{Überschrift}
+\chapter[Kurzform]{Überschrift}
+\section[Kurzform]{Überschrift}
+\subsection[Kurzform]{Überschrift}
+\subsubsection[Kurzform]{Überschrift}
+\paragraph[Kurzform]{Überschrift}
+\subparagraph[Kurzform]{Überschrift}
 
 
 === Parties d'un document ===
