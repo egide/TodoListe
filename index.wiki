@@ -1,4 +1,5 @@
 = Accueil =
+* [[Cles_USB]]
 * [[ArchLinux]]
 * [[Couteaux]]
 * [[Expositions]]
