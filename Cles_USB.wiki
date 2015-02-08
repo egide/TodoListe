@@ -85,16 +85,47 @@ Vide
 Pour l'école: documents à imprimer
 
 
+== Trenscent 1gb fil bleu ==
+       Forme : noir, bouts arrondis, entrefilet bleu
+ Description : Disque : 970 MiB, 1017117696 octets, 1986558 secteurs
+               Unités : secteur de 1 × 512 = 512 octets
+               Taille de secteur (logique / physique) : 512 octets / 512 octets
+               taille d'E/S (minimale / optimale) : 512 octets / 512 octets
+               Type d'étiquette de disque : dos
+               Identifiant de disque : 0x3fcaaacd
+   Partition : 2048 1984511 1982464  968M  b W95 FAT32
+ Mise à jour : 2015/02/08
+
+crypto_LUKS -> Je ne sais plus ce qu'il y a dessus...
+Probablement juste un test.
+
 == Nom ==
- Description : 
        Forme : 
+ Description : 
    Partition : 
  Mise à jour : 
 
+== Nom ==
+       Forme : 
+ Description : 
+   Partition : 
+ Mise à jour : 
 
 == Nom ==
- Description : 
        Forme : 
+ Description : 
+   Partition : 
+ Mise à jour : 
+
+== Nom ==
+       Forme : 
+ Description : 
+   Partition : 
+ Mise à jour : 
+
+== Nom ==
+       Forme : 
+ Description : 
    Partition : 
  Mise à jour : 
 
