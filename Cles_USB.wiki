@@ -14,6 +14,20 @@ Liste de mes clés USB et de leur contenu.
  Mise à jour : 2015/02/08
 
 
+== COB Fil noir ==
+       Forme : Noire, autocollant du 125e
+ Description : Disque : 1.9 GiB, 2021654528 octets, 3948544 secteurs
+               Unités : secteur de 1 × 512 = 512 octets
+               Taille de secteur (logique / physique) : 512 octets / 512 octets
+               taille d'E/S (minimale / optimale) : 512 octets / 512 octets
+               Type d'étiquette de disque : dos
+               Identifiant de disque : 0x0004cdc2
+   Partition : 63 3935924 3935862  1.9G  b W95 FAT32
+ Mise à jour : 2015/02/08
+
+Divers doc de Stef
+
+
 == COB ==
        Forme : Noire, autocollant du 125e
  Description : Disque : 1.9 GiB, 2004877312 octets, 3915776 secteurs
