@@ -127,12 +127,20 @@ J'ai encore des données à récupérer, mais je n'ai plus le mot de passe ;-)
  Mise à jour : 2015/02/08
 
 Inconnu
+Gparted boucle sur une erreur...
 
-== Nom ==
-       Forme : 
- Description : 
-   Partition : 
- Mise à jour : 
+== SanDisk Ubuntu frama ==
+       Forme : Noire et rouge à glissière, avec un porte étiquette
+ Description : Disque : 7.5 GiB, 8004304896 octets, 15633408 secteurs
+               Unités : secteur de 1 × 512 = 512 octets
+               Taille de secteur (logique / physique) : 512 octets / 512 octets
+               taille d'E/S (minimale / optimale) : 512 octets / 512 octets
+               Type d'étiquette de disque : dos
+               Identifiant de disque : 0x000d72e7
+   Partition : 1 15620279 15620279  7.5G  b W95 FAT32
+ Mise à jour : 2015/02/08
+
+Des musiques pour la voiture
 
 == Nom ==
        Forme : 
