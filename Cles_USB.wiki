@@ -99,11 +99,20 @@ Pour l'école: documents à imprimer
 crypto_LUKS -> Je ne sais plus ce qu'il y a dessus...
 Probablement juste un test.
 
-== Nom ==
-       Forme : 
- Description : 
-   Partition : 
- Mise à jour : 
+== Trenscent 4gb fil vert ==
+       Forme : noir, bouts arrondis, entrefilet vert
+ Description : Disque : 3.8 GiB, 4102028288 octets, 8011774 secteurs
+               Unités : secteur de 1 × 512 = 512 octets
+               Taille de secteur (logique / physique) : 512 octets / 512 octets
+               taille d'E/S (minimale / optimale) : 512 octets / 512 octets
+               Type d'étiquette de disque : gpt
+               Identifiant de disque : BB7EFFAE-53E1-49F2-BFE3-829DCB1E91BE
+   Partition : 1       34 5119999 5119966  2.5G Linux reserved
+               2  5120000 8007679 2887680  1.4G Linux reserved
+ Mise à jour : 2015/02/08
+
+Ancien tails
+J'ai encore des données à récupérer, mais je n'ai plus le mot de passe ;-)
 
 == Nom ==
        Forme : 
