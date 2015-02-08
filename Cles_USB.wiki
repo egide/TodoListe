@@ -3,25 +3,25 @@
 Liste de mes clés USB et de leur contenu.
 
 == Data Safe ==
+       Forme : Alu, crochet plastique bleu, toute petite
  Description : Disque : 15 GiB, 16101933056 octets, 31449088 secteurs
                Unités : secteur de 1 × 512 = 512 octets
                Taille de secteur (logique / physique) : 512 octets / 512 octets
                taille d'E/S (minimale / optimale) : 512 octets / 512 octets
                Type d'étiquette de disque : dos
                Identifiant de disque : 0x04dd5721
-       Forme : Alu, crochet plastique bleu, toute petite
    Partition : 63 31449087 31449025  15G  c W95 FAT32 (LBA)
  Mise à jour : 2015/02/08
 
 
 == COB ==
+       Forme : Noire, autocollant du 125e
  Description : Disque : 1.9 GiB, 2004877312 octets, 3915776 secteurs
                Unités : secteur de 1 × 512 = 512 octets
                Taille de secteur (logique / physique) : 512 octets / 512 octets
                taille d'E/S (minimale / optimale) : 512 octets / 512 octets
                Type d'étiquette de disque : dos
                Identifiant de disque : 0x000e169d
-       Forme : Noire, autocollant du 125e
    Partition : 62 3913191 3913130  1.9G 83 Linux
  Mise à jour : 2015/02/08
 
@@ -29,27 +29,27 @@ crypto_LUKS -> je ne sais plus ce qu'il y a dessus...
 
 
 == bit4flash ==
+       Forme : Noire tout en rondeur
  Description : Disque : 123.4 MiB, 129368064 octets, 252672 secteurs
                Unités : secteur de 1 × 512 = 512 octets
                Taille de secteur (logique / physique) : 512 octets / 512 octets
                taille d'E/S (minimale / optimale) : 512 octets / 512 octets
                Type d'étiquette de disque : dos
                Identifiant de disque : 0x3f363f35
-       Forme : Noire tout en rondeur
    Partition : 32 252414  252383 123.2M  b W95 FAT32
  Mise à jour : 2015/02/08
 
 TOR fichier tor.kdb
 
 
-== DELL 356mb [[==]]
+== DELL 356mb ==
+       Forme : Noire, longue, liste grise recourbée au bout
  Description : Disque : 244 MiB, 255852032 octets, 499711 secteurs
                Unités : secteur de 1 × 512 = 512 octets
                Taille de secteur (logique / physique) : 512 octets / 512 octets
                taille d'E/S (minimale / optimale) : 512 octets / 512 octets
                Type d'étiquette de disque : dos
                Identifiant de disque : 0x00000000
-       Forme : Noire, longue, liste grise recourbée au bout
    Partition : 4 499710  499707  244M  e W95 FAT16 (LBA)
  Mise à jour : 2015/02/08
 
@@ -57,13 +57,13 @@ Vide
 
 
 == HEDS Kingston ==
+       Forme : blanche et grise
  Description : Disque : 954 MiB, 1000341504 octets, 1953792 secteurs
                Unités : secteur de 1 × 512 = 512 octets
                Taille de secteur (logique / physique) : 512 octets / 512 octets
                taille d'E/S (minimale / optimale) : 512 octets / 512 octets
                Type d'étiquette de disque : dos
                Identifiant de disque : 0x000eaa27
-       Forme : blanche et grise
    Partition : 63 1943864 1943802 949.1M  b W95 FAT32
  Mise à jour : 2015/02/08
 
@@ -71,13 +71,13 @@ Document de cours de Stéph
 
 
 == Maxxtro Pen drive 2.0 ==
+       Forme : Bleu translucide dans une pince métallique
  Description : Disque : 118.8 MiB, 124518400 octets, 243200 secteurs
                Unités : secteur de 1 × 512 = 512 octets
                Taille de secteur (logique / physique) : 512 octets / 512 octets
                taille d'E/S (minimale / optimale) : 512 octets / 512 octets
                Type d'étiquette de disque : dos
                Identifiant de disque : 0x8c830108
-       Forme : Bleu translucide dans une pince métallique
    Partition : 2048 241663  239616  117M  b W95 FAT32
  Mise à jour : 2015/02/08
 
