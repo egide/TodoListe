@@ -88,6 +88,9 @@ Elle est introduite par la commande \backmatter
 * http://geekographie.maieul.net/Introduction-a-Latexmk-pour
 
 == TODO ==
+=== Guillemets ===
+\enquote{htextei}
+
 === FixMe ===
 Étudier ce paquet qui semble très intéressant! La doc est déjà chargée dans mon
 dossier doc perso.
