@@ -95,3 +95,12 @@ dossier doc perso.
 === blindtext ===
 Paquet vraiment très intéressant qui permet de faire du faux texte.
 
+= Paquets =
+== babel ==
+Babel doit normalement être chargé après les autres extensions, à l'exception
+des paquets suivants qui doivent êtres chargés après:
+* eurosym (symbole euro)
+* hyperref (liens dans le document PDF)
+* glossaries (production de glossaires)
+* datetime (production de l'heure de compilation, entre autre)
+
