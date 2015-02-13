@@ -20,10 +20,7 @@
 
 = TODO =
 == Auj ==
-* [ ] SSAC
-	* [X] Cabane
-	* [ ] Demander la liste des accompagnateurs
-		* [ ] Faire la nouvelle carte.
+* [ ] cuillère à gouter
 * [ ] [[TraitéDeLaTolérance]]
 == divers ==
 - Terminer classe LaTeX pour lettres
