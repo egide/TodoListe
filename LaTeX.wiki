@@ -104,3 +104,8 @@ des paquets suivants qui doivent êtres chargés après:
 * glossaries (production de glossaires)
 * datetime (production de l'heure de compilation, entre autre)
 
+== bookmark ==
+la commande \bookmarksetup configure le pa-
+ckage bookmark, un complément du précédent pour l’affichage optimal des
+signets PDF.
+
