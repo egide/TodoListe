@@ -29,7 +29,6 @@
 	- [X] scanné
 	- [ ] préparer une réponse
 - Chercher dans "Lexique des règles typographiques en usage à l'imprimerie nationale" les différentes partie d'un bouquin.
-- Préparer un modèle de lettre LaTeX
 - Avancer le livre blanc...
 - Mettre à jour la config de txt2tags
 - [ ] Chercher les livres : http://fr.wikipedia.org/wiki/Herv%C3%A9_Juvin
@@ -42,6 +41,9 @@
 	- [ ] amule
 - [ ] enfin mettre le portable de stef à jour...
 - [ ] installer la station
+
+== serveur @ home ==
+- aur/syncterm 
 
 = COB =
 == Cours ==

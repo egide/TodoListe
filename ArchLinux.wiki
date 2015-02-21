@@ -1,9 +1,12 @@
-[[=]] Arc Linux =
+= Arc Linux =
 Mettre à jour la liste des programmes installés
 
 cgroup : option or name mismatch, new: 0x0", old: 0x4 "systemd"
 
 == Programmes installés sur mon portables ==
+=== byobu ===
+Enhanced profile and useful notifications for tmux/screen
+
 === theharvester ===
 Permet d'obtenir des informations sur un nom de domaine
 
