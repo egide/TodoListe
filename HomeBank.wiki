@@ -1,0 +1,49 @@
+rc@clevo:~➤  yaourt homebank
+1 community/homebank 5.0.0-1
+	Free, easy, personal accounting for everyone
+==> Numéro(s) des paquets à installer (ex: 1 2 3 ou 1-3)
+	==> ----------------------------------------------------
+	==> 1
+
+	[sudo] password for root: 
+	résolution des dépendances...
+	recherche des conflits entre paquets...
+
+	Paquets (4) libofx-0.9.9-1  libxml++-2.36.0-2  opensp-1.5.2-4
+	homebank-5.0.0-1
+
+	Taille totale du téléchargement :  2.59 MiB
+	Taille totale installée :         7.84 MiB
+
+	:: Procéder à l’installation ? [O/n] 
+	:: Récupération des paquets...
+	opensp-1.5.2-4-x86_64                                   830.0 KiB   640K/s
+	00:01 [###############################################] 100%
+	libxml++-2.36.0-2-x86_64                                 73.6 KiB   635K/s
+	00:00 [###############################################] 100%
+	libofx-0.9.9-1-x86_64                                   156.8 KiB
+	334K/s 00:00 [###############################################] 100%
+	homebank-5.0.0-1-x86_64                                1591.2 KiB
+	741K/s 00:02 [###############################################] 100%
+	(4/4) vérification des clés dans le trousseau
+	[###############################################] 100%
+	(4/4) vérification de l’intégrité des paquets
+	[###############################################] 100%
+	(4/4) chargement des fichiers des paquets
+	[###############################################] 100%
+	(4/4) analyse des conflits entre fichiers
+	[###############################################] 100%
+	(4/4) vérification de l’espace disque disponible
+	[###############################################] 100%
+	(1/4) installation de opensp
+	[###############################################] 100%
+	(2/4) installation de libxml++
+	[###############################################] 100%
+	(3/4) installation de libofx
+	[###############################################] 100%
+	(4/4) installation de homebank
+	[###############################################] 100%
+	▶▶▶ 09:11.50 mar fév 24 2015 ◀◀◀                                                                                                        
+	rc@clevo:~➤ 
+
+
