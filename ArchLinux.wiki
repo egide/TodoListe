@@ -4,6 +4,9 @@ Mettre à jour la liste des programmes installés
 cgroup : option or name mismatch, new: 0x0", old: 0x4 "systemd"
 
 == Programmes installés sur mon portables ==
+=== tmux ===
+Multiplexeur de terminal
+
 === nmon ===
 Moniteur de ce que fait la machine.
 
